@@ -1,3 +1,11 @@
-## Project For Learning Purpose.
+# Learning React JS
 
-# ReactJs Testing
+The goal of this project is to showcase ReactJS Code.
+
+  - discover the component way
+  - take notes
+  - the way to communicate with a server (maybe an express server)
+  - following this course [https://www.udemy.com/react-flux/]
+
+[//]:
+[react-flux]: <https://www.udemy.com/react-flux/>
